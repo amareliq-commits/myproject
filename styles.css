@@ -1,0 +1,14 @@
+<style>
+	.pic_out{width: 200px; height: 200px}
+	.pic_in{width: 100px; height: 100px}
+	.pic{
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  width: 300px;
+}
+	.center{
+  display: flex;
+  justify-content: center;
+}
+</style>
